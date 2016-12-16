@@ -1,0 +1,7 @@
+{
+  "name": "application.name",
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {}
+}
